@@ -48,7 +48,7 @@ hobbies: list[str] = ["Reading", "Traveling", "Planting"]
   &nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c language" title="C" width="40" height="40" />][tech_tools_anchor]
   &nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/maazkhan75/HostedAssets@main/icons/bash1.svg" alt="bash" title="Bash" width="40" height="40" />][tech_tools_anchor]
+[<img src="https://cdn.jsdelivr.net/gh/maazkhan75/HostedAssets@main/icons/bash2.svg" alt="bash" title="Bash" width="40" height="40" />][tech_tools_anchor]
   &nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40" />][tech_tools_anchor]
   &nbsp;
