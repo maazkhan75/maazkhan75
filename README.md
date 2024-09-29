@@ -93,9 +93,10 @@ hobbies: list[str] = ["Reading", "Traveling", "Planting"]
 
 ## 🌐 Connect
 <p align="left">
+ 
   <a href="https://www.linkedin.com/in/maazkhan75/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  [![Send me Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maazkhan75555@gmail.com)
+ <a href="mailto:maazkhan75555@gmail.com">![Send me Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 </p>
 
 
